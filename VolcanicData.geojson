@@ -1,0 +1,4128 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.213,38.789 ]
+    },
+    "properties": {
+    "Volcano_Number":211040,
+    "Volcano_Name":"Stromboli",
+    "Country":"Italy",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Mediterranean and Western Asia",
+    "Subregion":"Italy",
+    "Dominant_Rock_Type":"Trachyandesite / Basaltic Trachyandesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.999,37.748 ]
+    },
+    "properties": {
+    "Volcano_Number":211060,
+    "Volcano_Name":"Etna",
+    "Country":"Italy",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Mediterranean and Western Asia",
+    "Subregion":"Italy",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.83,15.55 ]
+    },
+    "properties": {
+    "Volcano_Number":221010,
+    "Volcano_Name":"Tair, Jebel at",
+    "Country":"Yemen",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.18,15.05 ]
+    },
+    "properties": {
+    "Volcano_Number":221020,
+    "Volcano_Name":"Zubair Group",
+    "Country":"Yemen",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.3,14.242 ]
+    },
+    "properties": {
+    "Volcano_Number":221041,
+    "Volcano_Name":"Dallol",
+    "Country":"Ethiopia",
+    "Primary_Volcano_Type":"Explosion crater(s)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"No Data (checked)",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.553,13.793 ]
+    },
+    "properties": {
+    "Volcano_Number":221060,
+    "Volcano_Name":"Alu-Dalafilla",
+    "Country":"Ethiopia",
+    "Primary_Volcano_Type":"Fissure vent(s)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.67,13.6 ]
+    },
+    "properties": {
+    "Volcano_Number":221080,
+    "Volcano_Name":"Erta Ale",
+    "Country":"Ethiopia",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7,13.37 ]
+    },
+    "properties": {
+    "Volcano_Number":221101,
+    "Volcano_Name":"Nabro",
+    "Country":"Eritrea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Trachyte / Trachydacite",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.48,12.595 ]
+    },
+    "properties": {
+    "Volcano_Number":221113,
+    "Volcano_Name":"Dabbahu",
+    "Country":"Ethiopia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2005,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.82,12.17 ]
+    },
+    "properties": {
+    "Volcano_Number":221115,
+    "Volcano_Name":"Manda Hararo",
+    "Country":"Ethiopia",
+    "Primary_Volcano_Type":"Shield(s)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2009,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (northeastern) and Red Sea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.914,-2.764 ]
+    },
+    "properties": {
+    "Volcano_Number":222120,
+    "Volcano_Name":"Lengai, Ol Doinyo",
+    "Country":"Tanzania",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (eastern)",
+    "Dominant_Rock_Type":"Foidite",
+    "Tectonic_Setting":"Rift zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.2,-1.408 ]
+    },
+    "properties": {
+    "Volcano_Number":223020,
+    "Volcano_Name":"Nyamuragira",
+    "Country":"DR Congo",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (central)",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Rift zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.25,-1.52 ]
+    },
+    "properties": {
+    "Volcano_Number":223030,
+    "Volcano_Name":"Nyiragongo",
+    "Country":"DR Congo",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (central)",
+    "Dominant_Rock_Type":"Foidite",
+    "Tectonic_Setting":"Rift zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.17,4.203 ]
+    },
+    "properties": {
+    "Volcano_Number":224010,
+    "Volcano_Name":"Cameroon",
+    "Country":"Cameroon",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Africa and Red Sea",
+    "Subregion":"Africa (western)",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Intraplate / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.17,-12.83 ]
+    },
+    "properties": {
+    "Volcano_Number":233005,
+    "Volcano_Name":"Mayotte",
+    "Country":"France",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (western)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.38,-11.75 ]
+    },
+    "properties": {
+    "Volcano_Number":233010,
+    "Volcano_Name":"Karthala",
+    "Country":"Comoros",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (western)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.708,-21.244 ]
+    },
+    "properties": {
+    "Volcano_Number":233020,
+    "Volcano_Name":"Fournaise, Piton de la",
+    "Country":"France",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (western)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.513,-53.106 ]
+    },
+    "properties": {
+    "Volcano_Number":234010,
+    "Volcano_Name":"Heard",
+    "Country":"Australia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (southern)",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.6,-53.03 ]
+    },
+    "properties": {
+    "Volcano_Number":234011,
+    "Volcano_Name":"McDonald Islands",
+    "Country":"Australia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2005,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (southern)",
+    "Dominant_Rock_Type":"Phonolite",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.75,-46.9 ]
+    },
+    "properties": {
+    "Volcano_Number":234070,
+    "Volcano_Name":"Marion Island",
+    "Country":"South Africa",
+    "Primary_Volcano_Type":"Shield(s)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2004,
+    "Region":"Middle East and Indian Ocean",
+    "Subregion":"Indian Ocean (southern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 177.18,-37.52 ]
+    },
+    "properties": {
+    "Volcano_Number":241040,
+    "Volcano_Name":"Whakaari/White Island",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"New Zealand",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175.632,-39.157 ]
+    },
+    "properties": {
+    "Volcano_Number":241080,
+    "Volcano_Name":"Tongariro",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"New Zealand",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175.57,-39.28 ]
+    },
+    "properties": {
+    "Volcano_Number":241100,
+    "Volcano_Name":"Ruapehu",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"New Zealand",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.478,-35.745 ]
+    },
+    "properties": {
+    "Volcano_Number":241130,
+    "Volcano_Name":"Rumble III",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"New Zealand",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -179.033,-31.08 ]
+    },
+    "properties": {
+    "Volcano_Number":242005,
+    "Volcano_Name":"Havre Seamount",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Kermadec Islands",
+    "Dominant_Rock_Type":"",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.92,-29.27 ]
+    },
+    "properties": {
+    "Volcano_Number":242030,
+    "Volcano_Name":"Raoul Island",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2006,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Kermadec Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.188,-25.887 ]
+    },
+    "properties": {
+    "Volcano_Number":242050,
+    "Volcano_Name":"Monowai",
+    "Country":"New Zealand",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.55,-20.852 ]
+    },
+    "properties": {
+    "Volcano_Number":243030,
+    "Volcano_Name":"Unnamed",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"No Data (checked)",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.382,-20.536 ]
+    },
+    "properties": {
+    "Volcano_Number":243040,
+    "Volcano_Name":"Hunga Tonga-Hunga Ha'apai",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.07,-19.75 ]
+    },
+    "properties": {
+    "Volcano_Number":243060,
+    "Volcano_Name":"Tofua",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.87,-19.18 ]
+    },
+    "properties": {
+    "Volcano_Number":243070,
+    "Volcano_Name":"Lateiki",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.775,-18.992 ]
+    },
+    "properties": {
+    "Volcano_Number":243080,
+    "Volcano_Name":"Home Reef",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2006,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.365,-18.325 ]
+    },
+    "properties": {
+    "Volcano_Number":243091,
+    "Volcano_Name":"Unnamed",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2001,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.23,-15.37 ]
+    },
+    "properties": {
+    "Volcano_Number":243120,
+    "Volcano_Name":"Tafu-Maka",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -173.75,-15.1 ]
+    },
+    "properties": {
+    "Volcano_Number":243130,
+    "Volcano_Name":"West Mata",
+    "Country":"Tonga",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2003,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Tonga Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.058,-14.215 ]
+    },
+    "properties": {
+    "Volcano_Number":244000,
+    "Volcano_Name":"Vailulu'u",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"New Zealand to Fiji",
+    "Subregion":"Samoan and Wallis Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.588,-3.608 ]
+    },
+    "properties": {
+    "Volcano_Number":251002,
+    "Volcano_Name":"Kadovar",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Evidence Credible",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Northeast of New Guinea",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.037,-4.08 ]
+    },
+    "properties": {
+    "Volcano_Number":251020,
+    "Volcano_Name":"Manam",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Northeast of New Guinea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.964,-4.649 ]
+    },
+    "properties": {
+    "Volcano_Number":251030,
+    "Volcano_Name":"Karkar",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Northeast of New Guinea",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.115,-5.519 ]
+    },
+    "properties": {
+    "Volcano_Number":251070,
+    "Volcano_Name":"Ritter Island",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Northeast of New Guinea",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.42,-5.525 ]
+    },
+    "properties": {
+    "Volcano_Number":252010,
+    "Volcano_Name":"Langila",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"New Britain",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.027,-5.416 ]
+    },
+    "properties": {
+    "Volcano_Number":252070,
+    "Volcano_Name":"Krummel-Garbuna-Welcker",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Melanesia and Australia",
+    "Subregion":"New Britain",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.516,-5.576 ]
+    },
+    "properties": {
+    "Volcano_Number":252080,
+    "Volcano_Name":"Witori",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Melanesia and Australia",
+    "Subregion":"New Britain",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.33,-5.05 ]
+    },
+    "properties": {
+    "Volcano_Number":252120,
+    "Volcano_Name":"Ulawun",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Melanesia and Australia",
+    "Subregion":"New Britain",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 152.203,-4.271 ]
+    },
+    "properties": {
+    "Volcano_Number":252140,
+    "Volcano_Name":"Rabaul",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Pyroclastic shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"Melanesia and Australia",
+    "Subregion":"New Britain",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.196,-6.137 ]
+    },
+    "properties": {
+    "Volcano_Number":255020,
+    "Volcano_Name":"Bagana",
+    "Country":"Papua New Guinea",
+    "Primary_Volcano_Type":"Lava cone",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Bougainville and Solomon Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 157.979,-8.991 ]
+    },
+    "properties": {
+    "Volcano_Number":255060,
+    "Volcano_Name":"Kavachi",
+    "Country":"Solomon Islands",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Bougainville and Solomon Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.804,-10.386 ]
+    },
+    "properties": {
+    "Volcano_Number":256010,
+    "Volcano_Name":"Tinakula",
+    "Country":"Solomon Islands",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Santa Cruz Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.5,-14.27 ]
+    },
+    "properties": {
+    "Volcano_Number":257020,
+    "Volcano_Name":"Gaua",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 167.835,-15.389 ]
+    },
+    "properties": {
+    "Volcano_Number":257030,
+    "Volcano_Name":"Ambae",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.12,-16.25 ]
+    },
+    "properties": {
+    "Volcano_Number":257040,
+    "Volcano_Name":"Ambrym",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Pyroclastic shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.346,-16.507 ]
+    },
+    "properties": {
+    "Volcano_Number":257050,
+    "Volcano_Name":"Lopevi",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.37,-16.68 ]
+    },
+    "properties": {
+    "Volcano_Number":257060,
+    "Volcano_Name":"Epi",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2004,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 169.447,-19.532 ]
+    },
+    "properties": {
+    "Volcano_Number":257100,
+    "Volcano_Name":"Yasur",
+    "Country":"Vanuatu",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Melanesia and Australia",
+    "Subregion":"Vanuatu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 93.858,12.278 ]
+    },
+    "properties": {
+    "Volcano_Number":260010,
+    "Volcano_Name":"Barren Island",
+    "Country":"India",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Andaman Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.289,4.903 ]
+    },
+    "properties": {
+    "Volcano_Number":261030,
+    "Volcano_Name":"Peuet Sague",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.392,3.17 ]
+    },
+    "properties": {
+    "Volcano_Number":261080,
+    "Volcano_Name":"Sinabung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.474,-0.38 ]
+    },
+    "properties": {
+    "Volcano_Number":261140,
+    "Volcano_Name":"Marapi",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.681,-0.979 ]
+    },
+    "properties": {
+    "Volcano_Number":261160,
+    "Volcano_Name":"Talang",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.264,-1.697 ]
+    },
+    "properties": {
+    "Volcano_Number":261170,
+    "Volcano_Name":"Kerinci",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.615,-3.522 ]
+    },
+    "properties": {
+    "Volcano_Number":261220,
+    "Volcano_Name":"Kaba",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.121,-4.016 ]
+    },
+    "properties": {
+    "Volcano_Number":261230,
+    "Volcano_Name":"Dempo",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"Indonesia",
+    "Subregion":"Sumatra",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.423,-6.102 ]
+    },
+    "properties": {
+    "Volcano_Number":262000,
+    "Volcano_Name":"Krakatau",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Krakatau",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6,-6.77 ]
+    },
+    "properties": {
+    "Volcano_Number":263090,
+    "Volcano_Name":"Tangkuban Parahu",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.73,-7.32 ]
+    },
+    "properties": {
+    "Volcano_Number":263100,
+    "Volcano_Name":"Papandayan",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2002,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.208,-7.242 ]
+    },
+    "properties": {
+    "Volcano_Number":263180,
+    "Volcano_Name":"Slamet",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.879,-7.2 ]
+    },
+    "properties": {
+    "Volcano_Number":263200,
+    "Volcano_Name":"Dieng Volcanic Complex",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.446,-7.54 ]
+    },
+    "properties": {
+    "Volcano_Number":263250,
+    "Volcano_Name":"Merapi",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.308,-7.93 ]
+    },
+    "properties": {
+    "Volcano_Number":263280,
+    "Volcano_Name":"Kelut",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.922,-8.108 ]
+    },
+    "properties": {
+    "Volcano_Number":263300,
+    "Volcano_Name":"Semeru",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.95,-7.942 ]
+    },
+    "properties": {
+    "Volcano_Number":263310,
+    "Volcano_Name":"Tengger Caldera",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Trachyandesite / Basaltic Trachyandesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.056,-8.119 ]
+    },
+    "properties": {
+    "Volcano_Number":263340,
+    "Volcano_Name":"Raung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Java",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.375,-8.242 ]
+    },
+    "properties": {
+    "Volcano_Number":264010,
+    "Volcano_Name":"Batur",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.508,-8.343 ]
+    },
+    "properties": {
+    "Volcano_Number":264020,
+    "Volcano_Name":"Agung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.47,-8.42 ]
+    },
+    "properties": {
+    "Volcano_Number":264030,
+    "Volcano_Name":"Rinjani",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.07,-8.2 ]
+    },
+    "properties": {
+    "Volcano_Number":264050,
+    "Volcano_Name":"Sangeang Api",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98,-8.73 ]
+    },
+    "properties": {
+    "Volcano_Number":264090,
+    "Volcano_Name":"Inielika",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2001,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.708,-8.32 ]
+    },
+    "properties": {
+    "Volcano_Number":264150,
+    "Volcano_Name":"Paluweh",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.455,-8.676 ]
+    },
+    "properties": {
+    "Volcano_Number":264160,
+    "Volcano_Name":"Egon",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.775,-8.542 ]
+    },
+    "properties": {
+    "Volcano_Number":264180,
+    "Volcano_Name":"Lewotobi",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2003,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.833,-8.365 ]
+    },
+    "properties": {
+    "Volcano_Number":264200,
+    "Volcano_Name":"Leroboleng",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2003,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.505,-8.272 ]
+    },
+    "properties": {
+    "Volcano_Number":264230,
+    "Volcano_Name":"Lewotolo",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.57,-8.53 ]
+    },
+    "properties": {
+    "Volcano_Number":264250,
+    "Volcano_Name":"Iliwerung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.585,-7.791 ]
+    },
+    "properties": {
+    "Volcano_Number":264260,
+    "Volcano_Name":"Tara, Batu",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.13,-8.508 ]
+    },
+    "properties": {
+    "Volcano_Number":264270,
+    "Volcano_Name":"Sirung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"Indonesia",
+    "Subregion":"Lesser Sunda Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.42,0.75 ]
+    },
+    "properties": {
+    "Volcano_Number":266020,
+    "Volcano_Name":"Ambang",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2005,
+    "Region":"Indonesia",
+    "Subregion":"Sulawesi",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.737,1.112 ]
+    },
+    "properties": {
+    "Volcano_Number":266030,
+    "Volcano_Name":"Soputan",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Sulawesi",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.792,1.358 ]
+    },
+    "properties": {
+    "Volcano_Number":266100,
+    "Volcano_Name":"Lokon-Empung",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"Indonesia",
+    "Subregion":"Sulawesi",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.37,2.3 ]
+    },
+    "properties": {
+    "Volcano_Number":267010,
+    "Volcano_Name":"Ruang",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2002,
+    "Region":"Indonesia",
+    "Subregion":"Sangihe Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.407,2.781 ]
+    },
+    "properties": {
+    "Volcano_Number":267020,
+    "Volcano_Name":"Karangetang",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Sangihe Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.447,3.689 ]
+    },
+    "properties": {
+    "Volcano_Number":267040,
+    "Volcano_Name":"Awu",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2004,
+    "Region":"Indonesia",
+    "Subregion":"Sangihe Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.894,1.693 ]
+    },
+    "properties": {
+    "Volcano_Number":268010,
+    "Volcano_Name":"Dukono",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Halmahera",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.63,1.488 ]
+    },
+    "properties": {
+    "Volcano_Number":268030,
+    "Volcano_Name":"Ibu",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Indonesia",
+    "Subregion":"Halmahera",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.53,1.38 ]
+    },
+    "properties": {
+    "Volcano_Number":268040,
+    "Volcano_Name":"Gamkonora",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Indonesia",
+    "Subregion":"Halmahera",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.33,0.8 ]
+    },
+    "properties": {
+    "Volcano_Number":268060,
+    "Volcano_Name":"Gamalama",
+    "Country":"Indonesia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Indonesia",
+    "Subregion":"Halmahera",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.132,10.412 ]
+    },
+    "properties": {
+    "Volcano_Number":272020,
+    "Volcano_Name":"Kanlaon",
+    "Country":"Philippines",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"Philippines and SE Asia",
+    "Subregion":"Central Philippines",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.056,12.769 ]
+    },
+    "properties": {
+    "Volcano_Number":273010,
+    "Volcano_Name":"Bulusan",
+    "Country":"Philippines",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"Philippines and SE Asia",
+    "Subregion":"Luzon",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.685,13.257 ]
+    },
+    "properties": {
+    "Volcano_Number":273030,
+    "Volcano_Name":"Mayon",
+    "Country":"Philippines",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Philippines and SE Asia",
+    "Subregion":"Luzon",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.993,14.002 ]
+    },
+    "properties": {
+    "Volcano_Number":273070,
+    "Volcano_Name":"Taal",
+    "Country":"Philippines",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Philippines and SE Asia",
+    "Subregion":"Luzon",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.714,29.638 ]
+    },
+    "properties": {
+    "Volcano_Number":282030,
+    "Volcano_Name":"Suwanosejima",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.217,30.443 ]
+    },
+    "properties": {
+    "Volcano_Number":282050,
+    "Volcano_Name":"Kuchinoerabujima",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.305,30.793 ]
+    },
+    "properties": {
+    "Volcano_Number":282060,
+    "Volcano_Name":"Kikai",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Rhyolite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.657,31.593 ]
+    },
+    "properties": {
+    "Volcano_Number":282080,
+    "Volcano_Name":"Aira",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.862,31.934 ]
+    },
+    "properties": {
+    "Volcano_Number":282090,
+    "Volcano_Name":"Kirishimayama",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 131.104,32.884 ]
+    },
+    "properties": {
+    "Volcano_Number":282110,
+    "Volcano_Name":"Asosan",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Ryukyu Islands and Kyushu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.021,35.233 ]
+    },
+    "properties": {
+    "Volcano_Number":283020,
+    "Volcano_Name":"Hakoneyama",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Dated",
+    "year":2015,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Honshu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 137.48,35.893 ]
+    },
+    "properties": {
+    "Volcano_Number":283040,
+    "Volcano_Name":"Ontakesan",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Honshu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.523,36.406 ]
+    },
+    "properties": {
+    "Volcano_Number":283110,
+    "Volcano_Name":"Asamayama",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Honshu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.528,36.618 ]
+    },
+    "properties": {
+    "Volcano_Number":283120,
+    "Volcano_Name":"Kusatsu-Shiranesan",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Honshu",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.526,34.094 ]
+    },
+    "properties": {
+    "Volcano_Number":284040,
+    "Volcano_Name":"Miyakejima",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.303,30.484 ]
+    },
+    "properties": {
+    "Volcano_Number":284090,
+    "Volcano_Name":"Izu-Torishima",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2002,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.874,27.247 ]
+    },
+    "properties": {
+    "Volcano_Number":284096,
+    "Volcano_Name":"Nishinoshima",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.481,24.285 ]
+    },
+    "properties": {
+    "Volcano_Number":284130,
+    "Volcano_Name":"Fukutoku-Oka-no-Ba",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Trachyandesite / Basaltic Trachyandesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,20.42 ]
+    },
+    "properties": {
+    "Volcano_Number":284141,
+    "Volcano_Name":"Ahyi",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Dated",
+    "year":2014,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.8,18.13 ]
+    },
+    "properties": {
+    "Volcano_Number":284170,
+    "Volcano_Name":"Pagan",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.78,16.58 ]
+    },
+    "properties": {
+    "Volcano_Number":284193,
+    "Volcano_Name":"South Sarigan Seamount",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"No Data (checked)",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.67,16.35 ]
+    },
+    "properties": {
+    "Volcano_Number":284200,
+    "Volcano_Name":"Anatahan",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.775,14.601 ]
+    },
+    "properties": {
+    "Volcano_Number":284211,
+    "Volcano_Name":"NW Rota-1",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Crustal thickness unknown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.506,15.406 ]
+    },
+    "properties": {
+    "Volcano_Number":284305,
+    "Volcano_Name":"Mariana Back-Arc Segment at 15.5°N",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Dated",
+    "year":2015,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Izu, Volcano, and Mariana Islands",
+    "Dominant_Rock_Type":"",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.677,42.063 ]
+    },
+    "properties": {
+    "Volcano_Number":285020,
+    "Volcano_Name":"Hokkaido-Komagatake",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Hokkaido",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.839,42.544 ]
+    },
+    "properties": {
+    "Volcano_Number":285030,
+    "Volcano_Name":"Toya",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2001,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Hokkaido",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.686,43.418 ]
+    },
+    "properties": {
+    "Volcano_Number":285050,
+    "Volcano_Name":"Tokachidake",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2004,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Hokkaido",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.013,43.384 ]
+    },
+    "properties": {
+    "Volcano_Number":285070,
+    "Volcano_Name":"Akan",
+    "Country":"Japan",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Japan, Taiwan, Marianas",
+    "Subregion":"Hokkaido",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.871,45.012 ]
+    },
+    "properties": {
+    "Volcano_Number":290070,
+    "Volcano_Name":"Etorofu-Yakeyama [Grozny Group]",
+    "Country":"Japan - administered by Russia",
+    "Primary_Volcano_Type":"Complex(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 150.871,46.532 ]
+    },
+    "properties": {
+    "Volcano_Number":290150,
+    "Volcano_Name":"Chirpoi",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.2,48.092 ]
+    },
+    "properties": {
+    "Volcano_Number":290240,
+    "Volcano_Name":"Sarychev Peak",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.25,48.292 ]
+    },
+    "properties": {
+    "Volcano_Number":290250,
+    "Volcano_Name":"Raikoke",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.48,48.98 ]
+    },
+    "properties": {
+    "Volcano_Number":290260,
+    "Volcano_Name":"Chirinkotan",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 153.93,48.958 ]
+    },
+    "properties": {
+    "Volcano_Number":290270,
+    "Volcano_Name":"Ekarma",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.461,50.324 ]
+    },
+    "properties": {
+    "Volcano_Number":290360,
+    "Volcano_Name":"Chikurachki",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 156.014,50.686 ]
+    },
+    "properties": {
+    "Volcano_Number":290380,
+    "Volcano_Name":"Ebeko",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 155.565,50.861 ]
+    },
+    "properties": {
+    "Volcano_Number":290390,
+    "Volcano_Name":"Alaid",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Kuril Islands",
+    "Subregion":"Kuril Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 156.875,51.306 ]
+    },
+    "properties": {
+    "Volcano_Number":300010,
+    "Volcano_Name":"Kambalny",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Dated",
+    "year":2017,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.196,52.449 ]
+    },
+    "properties": {
+    "Volcano_Number":300060,
+    "Volcano_Name":"Mutnovsky",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.03,52.559 ]
+    },
+    "properties": {
+    "Volcano_Number":300070,
+    "Volcano_Name":"Gorely",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.712,53.321 ]
+    },
+    "properties": {
+    "Volcano_Number":300090,
+    "Volcano_Name":"Koryaksky",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2009,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 158.836,53.256 ]
+    },
+    "properties": {
+    "Volcano_Number":300100,
+    "Volcano_Name":"Avachinsky",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2001,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.15,53.589 ]
+    },
+    "properties": {
+    "Volcano_Number":300120,
+    "Volcano_Name":"Zhupanovsky",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Compound",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.443,54.049 ]
+    },
+    "properties": {
+    "Volcano_Number":300130,
+    "Volcano_Name":"Karymsky",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.32,55.131 ]
+    },
+    "properties": {
+    "Volcano_Number":300230,
+    "Volcano_Name":"Kizimen",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.326,55.832 ]
+    },
+    "properties": {
+    "Volcano_Number":300240,
+    "Volcano_Name":"Tolbachik",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.595,55.972 ]
+    },
+    "properties": {
+    "Volcano_Number":300250,
+    "Volcano_Name":"Bezymianny",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 160.642,56.056 ]
+    },
+    "properties": {
+    "Volcano_Number":300260,
+    "Volcano_Name":"Klyuchevskoy",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 161.36,56.653 ]
+    },
+    "properties": {
+    "Volcano_Number":300270,
+    "Volcano_Name":"Sheveluch",
+    "Country":"Russia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Kamchatka and Mainland Asia",
+    "Subregion":"Kamchatka Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.58,51.93 ]
+    },
+    "properties": {
+    "Volcano_Number":311060,
+    "Volcano_Name":"Semisopochnoi",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -177.168,51.923 ]
+    },
+    "properties": {
+    "Volcano_Number":311110,
+    "Volcano_Name":"Kanaga",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.13,52.076 ]
+    },
+    "properties": {
+    "Volcano_Number":311120,
+    "Volcano_Name":"Great Sitkin",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.508,52.177 ]
+    },
+    "properties": {
+    "Volcano_Number":311130,
+    "Volcano_Name":"Kasatochi",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -174.166,52.381 ]
+    },
+    "properties": {
+    "Volcano_Number":311161,
+    "Volcano_Name":"Korovin",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.944,52.825 ]
+    },
+    "properties": {
+    "Volcano_Number":311240,
+    "Volcano_Name":"Cleveland",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.13,53.43 ]
+    },
+    "properties": {
+    "Volcano_Number":311290,
+    "Volcano_Name":"Okmok",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.03,53.93 ]
+    },
+    "properties": {
+    "Volcano_Number":311300,
+    "Volcano_Name":"Bogoslof",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Trachyandesite / Basaltic Trachyandesite",
+    "Tectonic_Setting":"Subduction zone / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.97,54.756 ]
+    },
+    "properties": {
+    "Volcano_Number":311360,
+    "Volcano_Name":"Shishaldin",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Alaska",
+    "Subregion":"Aleutian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.894,55.417 ]
+    },
+    "properties": {
+    "Volcano_Number":312030,
+    "Volcano_Name":"Pavlof",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Alaska",
+    "Subregion":"Alaska Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.38,56.17 ]
+    },
+    "properties": {
+    "Volcano_Number":312070,
+    "Volcano_Name":"Veniaminof",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Alaska",
+    "Subregion":"Alaska Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.672,58.77 ]
+    },
+    "properties": {
+    "Volcano_Number":312260,
+    "Volcano_Name":"Fourpeaked",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2006,
+    "Region":"Alaska",
+    "Subregion":"Alaska Peninsula",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -153.43,59.363 ]
+    },
+    "properties": {
+    "Volcano_Number":313010,
+    "Volcano_Name":"Augustine",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Lava dome(s)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2006,
+    "Region":"Alaska",
+    "Subregion":"Alaska (southwestern)",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.742,60.485 ]
+    },
+    "properties": {
+    "Volcano_Number":313030,
+    "Volcano_Name":"Redoubt",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2009,
+    "Region":"Alaska",
+    "Subregion":"Alaska (southwestern)",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.18,46.2 ]
+    },
+    "properties": {
+    "Volcano_Number":321050,
+    "Volcano_Name":"St. Helens",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"Canada and Western USA",
+    "Subregion":"USA (Washington)",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -130,45.95 ]
+    },
+    "properties": {
+    "Volcano_Number":331021,
+    "Volcano_Name":"Axial Seamount",
+    "Country":"Undersea Features",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"Hawaii and Pacific Ocean",
+    "Subregion":"Pacific Ocean (northern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.287,19.421 ]
+    },
+    "properties": {
+    "Volcano_Number":332010,
+    "Volcano_Name":"Kilauea",
+    "Country":"United States",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"Hawaii and Pacific Ocean",
+    "Subregion":"Hawaiian Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.58,10.73 ]
+    },
+    "properties": {
+    "Volcano_Number":334040,
+    "Volcano_Name":"Northern EPR at 10.7°N",
+    "Country":"Undersea Features",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2003,
+    "Region":"Hawaii and Pacific Ocean",
+    "Subregion":"Pacific Ocean (eastern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3,9.83 ]
+    },
+    "properties": {
+    "Volcano_Number":334050,
+    "Volcano_Name":"Northern EPR at 9.8°N",
+    "Country":"Undersea Features",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2006,
+    "Region":"Hawaii and Pacific Ocean",
+    "Subregion":"Pacific Ocean (eastern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.62,19.514 ]
+    },
+    "properties": {
+    "Volcano_Number":341040,
+    "Volcano_Name":"Colima",
+    "Country":"Mexico",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"México and Central America",
+    "Subregion":"Mexico",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.622,19.023 ]
+    },
+    "properties": {
+    "Volcano_Number":341090,
+    "Volcano_Name":"Popocatepetl",
+    "Country":"Mexico",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Mexico",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.552,14.757 ]
+    },
+    "properties": {
+    "Volcano_Number":342030,
+    "Volcano_Name":"Santa Maria",
+    "Country":"Guatemala",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Guatemala",
+    "Dominant_Rock_Type":"Dacite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.88,14.473 ]
+    },
+    "properties": {
+    "Volcano_Number":342090,
+    "Volcano_Name":"Fuego",
+    "Country":"Guatemala",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Guatemala",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.601,14.382 ]
+    },
+    "properties": {
+    "Volcano_Number":342110,
+    "Volcano_Name":"Pacaya",
+    "Country":"Guatemala",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Guatemala",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.63,13.853 ]
+    },
+    "properties": {
+    "Volcano_Number":343020,
+    "Volcano_Name":"Santa Ana",
+    "Country":"El Salvador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2005,
+    "Region":"México and Central America",
+    "Subregion":"El Salvador and Honduras",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.269,13.434 ]
+    },
+    "properties": {
+    "Volcano_Number":343100,
+    "Volcano_Name":"San Miguel",
+    "Country":"El Salvador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"El Salvador and Honduras",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.004,12.702 ]
+    },
+    "properties": {
+    "Volcano_Number":344020,
+    "Volcano_Name":"San Cristobal",
+    "Country":"Nicaragua",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"México and Central America",
+    "Subregion":"Nicaragua",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.84,12.606 ]
+    },
+    "properties": {
+    "Volcano_Number":344040,
+    "Volcano_Name":"Telica",
+    "Country":"Nicaragua",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Nicaragua",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.539,12.423 ]
+    },
+    "properties": {
+    "Volcano_Number":344090,
+    "Volcano_Name":"Momotombo",
+    "Country":"Nicaragua",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"México and Central America",
+    "Subregion":"Nicaragua",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.165,11.985 ]
+    },
+    "properties": {
+    "Volcano_Number":344100,
+    "Volcano_Name":"Masaya",
+    "Country":"Nicaragua",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Nicaragua",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.622,11.538 ]
+    },
+    "properties": {
+    "Volcano_Number":344120,
+    "Volcano_Name":"Concepcion",
+    "Country":"Nicaragua",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"México and Central America",
+    "Subregion":"Nicaragua",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.324,10.83 ]
+    },
+    "properties": {
+    "Volcano_Number":345020,
+    "Volcano_Name":"Rincon de la Vieja",
+    "Country":"Costa Rica",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Costa Rica",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.703,10.463 ]
+    },
+    "properties": {
+    "Volcano_Number":345033,
+    "Volcano_Name":"Arenal",
+    "Country":"Costa Rica",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"México and Central America",
+    "Subregion":"Costa Rica",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.233,10.2 ]
+    },
+    "properties": {
+    "Volcano_Number":345040,
+    "Volcano_Name":"Poas",
+    "Country":"Costa Rica",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"México and Central America",
+    "Subregion":"Costa Rica",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.767,10.025 ]
+    },
+    "properties": {
+    "Volcano_Number":345070,
+    "Volcano_Name":"Turrialba",
+    "Country":"Costa Rica",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"México and Central America",
+    "Subregion":"Costa Rica",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.324,4.892 ]
+    },
+    "properties": {
+    "Volcano_Number":351020,
+    "Volcano_Name":"Ruiz, Nevado del",
+    "Country":"Colombia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Colombia",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.03,2.93 ]
+    },
+    "properties": {
+    "Volcano_Number":351050,
+    "Volcano_Name":"Huila, Nevado del",
+    "Country":"Colombia",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"South America",
+    "Subregion":"Colombia",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.37,1.22 ]
+    },
+    "properties": {
+    "Volcano_Number":351080,
+    "Volcano_Name":"Galeras",
+    "Country":"Colombia",
+    "Primary_Volcano_Type":"Complex",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2014,
+    "Region":"South America",
+    "Subregion":"Colombia",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.656,-0.077 ]
+    },
+    "properties": {
+    "Volcano_Number":352010,
+    "Volcano_Name":"Reventador",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Ecuador",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.598,-0.171 ]
+    },
+    "properties": {
+    "Volcano_Number":352020,
+    "Volcano_Name":"Guagua Pichincha",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2002,
+    "Region":"South America",
+    "Subregion":"Ecuador",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.436,-0.677 ]
+    },
+    "properties": {
+    "Volcano_Number":352050,
+    "Volcano_Name":"Cotopaxi",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"South America",
+    "Subregion":"Ecuador",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.442,-1.467 ]
+    },
+    "properties": {
+    "Volcano_Number":352080,
+    "Volcano_Name":"Tungurahua",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"South America",
+    "Subregion":"Ecuador",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.341,-2.005 ]
+    },
+    "properties": {
+    "Volcano_Number":352090,
+    "Volcano_Name":"Sangay",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Ecuador",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.55,-0.37 ]
+    },
+    "properties": {
+    "Volcano_Number":353010,
+    "Volcano_Name":"Fernandina",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Galapagos Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.35,0.02 ]
+    },
+    "properties": {
+    "Volcano_Number":353020,
+    "Volcano_Name":"Wolf",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"South America",
+    "Subregion":"Galapagos Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.17,-0.83 ]
+    },
+    "properties": {
+    "Volcano_Number":353050,
+    "Volcano_Name":"Negra, Sierra",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2018,
+    "Region":"South America",
+    "Subregion":"Galapagos Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.408,-0.92 ]
+    },
+    "properties": {
+    "Volcano_Number":353060,
+    "Volcano_Name":"Azul, Cerro",
+    "Country":"Ecuador",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2008,
+    "Region":"South America",
+    "Subregion":"Galapagos Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.857,-15.787 ]
+    },
+    "properties": {
+    "Volcano_Number":354006,
+    "Volcano_Name":"Sabancaya",
+    "Country":"Peru",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Peru",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.903,-16.355 ]
+    },
+    "properties": {
+    "Volcano_Number":354020,
+    "Volcano_Name":"Ubinas",
+    "Country":"Peru",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"South America",
+    "Subregion":"Peru",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.73,-23.37 ]
+    },
+    "properties": {
+    "Volcano_Number":355100,
+    "Volcano_Name":"Lascar",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"South America",
+    "Subregion":"Northern Chile, Bolivia and Argentina",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.568,-35.223 ]
+    },
+    "properties": {
+    "Volcano_Number":357040,
+    "Volcano_Name":"Planchon-Peteroa",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.378,-36.868 ]
+    },
+    "properties": {
+    "Volcano_Number":357070,
+    "Volcano_Name":"Chillan, Nevados de",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.183,-37.856 ]
+    },
+    "properties": {
+    "Volcano_Number":357090,
+    "Volcano_Name":"Copahue",
+    "Country":"Chile-Argentina",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2019,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.729,-38.692 ]
+    },
+    "properties": {
+    "Volcano_Number":357110,
+    "Volcano_Name":"Llaima",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2009,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.93,-39.42 ]
+    },
+    "properties": {
+    "Volcano_Number":357120,
+    "Volcano_Name":"Villarrica",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.117,-40.59 ]
+    },
+    "properties": {
+    "Volcano_Number":357150,
+    "Volcano_Name":"Puyehue-Cordon Caulle",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"South America",
+    "Subregion":"Central Chile and Argentina",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.618,-41.33 ]
+    },
+    "properties": {
+    "Volcano_Number":358020,
+    "Volcano_Name":"Calbuco",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"South America",
+    "Subregion":"Southern Chile and Argentina",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.646,-42.833 ]
+    },
+    "properties": {
+    "Volcano_Number":358041,
+    "Volcano_Name":"Chaiten",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"South America",
+    "Subregion":"Southern Chile and Argentina",
+    "Dominant_Rock_Type":"Rhyolite",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.97,-45.9 ]
+    },
+    "properties": {
+    "Volcano_Number":358057,
+    "Volcano_Name":"Hudson, Cerro",
+    "Country":"Chile",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"South America",
+    "Subregion":"Southern Chile and Argentina",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Continental crust (>25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.18,16.72 ]
+    },
+    "properties": {
+    "Volcano_Number":360050,
+    "Volcano_Name":"Soufriere Hills",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2013,
+    "Region":"West Indies",
+    "Subregion":"West Indies",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.64,12.3 ]
+    },
+    "properties": {
+    "Volcano_Number":360160,
+    "Volcano_Name":"Kick 'em Jenny",
+    "Country":"Grenada",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2017,
+    "Region":"West Indies",
+    "Subregion":"West Indies",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.633,63.633 ]
+    },
+    "properties": {
+    "Volcano_Number":372020,
+    "Volcano_Name":"Eyjafjallajokull",
+    "Country":"Iceland",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2010,
+    "Region":"Iceland and Arctic Ocean",
+    "Subregion":"Iceland (southern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.666,63.983 ]
+    },
+    "properties": {
+    "Volcano_Number":372070,
+    "Volcano_Name":"Hekla",
+    "Country":"Iceland",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Iceland and Arctic Ocean",
+    "Subregion":"Iceland (southern)",
+    "Dominant_Rock_Type":"Andesite / Basaltic Andesite",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.316,64.416 ]
+    },
+    "properties": {
+    "Volcano_Number":373010,
+    "Volcano_Name":"Grimsvotn",
+    "Country":"Iceland",
+    "Primary_Volcano_Type":"Caldera",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2011,
+    "Region":"Iceland and Arctic Ocean",
+    "Subregion":"Iceland (northeastern)",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.32,38.73 ]
+    },
+    "properties": {
+    "Volcano_Number":382050,
+    "Volcano_Name":"Terceira",
+    "Country":"Portugal",
+    "Primary_Volcano_Type":"Stratovolcano(es)",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2000,
+    "Region":"Atlantic Ocean",
+    "Subregion":"Azores",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18.03,27.73 ]
+    },
+    "properties": {
+    "Volcano_Number":383020,
+    "Volcano_Name":"Hierro",
+    "Country":"Spain",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2012,
+    "Region":"Atlantic Ocean",
+    "Subregion":"Canary Islands",
+    "Dominant_Rock_Type":"Trachybasalt / Tephrite Basanite",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.35,14.95 ]
+    },
+    "properties": {
+    "Volcano_Number":384010,
+    "Volcano_Name":"Fogo",
+    "Country":"Cape Verde",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2015,
+    "Region":"Atlantic Ocean",
+    "Subregion":"Cape Verde Islands",
+    "Dominant_Rock_Type":"Foidite",
+    "Tectonic_Setting":"Intraplate / Intermediate crust (15-25 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.22,-32.958 ]
+    },
+    "properties": {
+    "Volcano_Number":385052,
+    "Volcano_Name":"Walvis Ridge at 33°S",
+    "Country":"Undersea Features",
+    "Primary_Volcano_Type":"Submarine",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2002,
+    "Region":"Atlantic Ocean",
+    "Subregion":"Atlantic Ocean (central)",
+    "Dominant_Rock_Type":"No Data (checked)",
+    "Tectonic_Setting":"Intraplate / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -12.48,-37.42 ]
+    },
+    "properties": {
+    "Volcano_Number":386011,
+    "Volcano_Name":"Nightingale Island",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2004,
+    "Region":"Atlantic Ocean",
+    "Subregion":"Atlantic Ocean (southern)",
+    "Dominant_Rock_Type":"Trachyte / Trachydacite",
+    "Tectonic_Setting":"Rift zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -26.533,-59.017 ]
+    },
+    "properties": {
+    "Volcano_Number":390080,
+    "Volcano_Name":"Bristol Island",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Antarctica",
+    "Subregion":"Antarctica and South Sandwich Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -26.374,-58.445 ]
+    },
+    "properties": {
+    "Volcano_Number":390081,
+    "Volcano_Name":"Montagu Island",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Shield",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2007,
+    "Region":"Antarctica",
+    "Subregion":"Antarctica and South Sandwich Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -26.483,-57.8 ]
+    },
+    "properties": {
+    "Volcano_Number":390090,
+    "Volcano_Name":"Saunders",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2020,
+    "Region":"Antarctica",
+    "Subregion":"Antarctica and South Sandwich Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -27.57,-56.3 ]
+    },
+    "properties": {
+    "Volcano_Number":390130,
+    "Volcano_Name":"Zavodovski",
+    "Country":"United Kingdom",
+    "Primary_Volcano_Type":"Stratovolcano",
+    "Activity_Evidence":"Eruption Observed",
+    "year":2016,
+    "Region":"Antarctica",
+    "Subregion":"Antarctica and South Sandwich Islands",
+    "Dominant_Rock_Type":"Basalt / Picro-Basalt",
+    "Tectonic_Setting":"Subduction zone / Oceanic crust (< 15 km)"
+    }
+  } 
+]
+}
