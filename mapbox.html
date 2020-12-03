@@ -165,7 +165,7 @@ body {
     type: 'circle',
     source: {
       type: 'geojson',
-      data: './VolcanicData.geojson' // replace this with the url of your own geojson
+      data: './VolcanicData.geojson' 
     },	    
     paint: {
       'circle-radius': [
@@ -194,11 +194,6 @@ body {
   // update the map
   //map.setFilter('collisions', ['==', ['number', ['get', 'Year']],year]);
 
-  // converting 0-23 hour to AMPM format
-  //var ampm = hour >= 12 ? 'PM' : 'AM';
-  //var hour12 = hour % 12 ? hour % 12 : 12;
-
-  // update text in the UI
   //document.getElementById('active-hour').innerText = hour;
 
   });
@@ -207,9 +202,6 @@ body {
   // update the map
   map.setFilter('points', ['==', ['number', ['get', 'year']], year]);
 
-  // converting 0-23 hour to AMPM format
-  //var ampm = hour >= 12 ? 'PM' : 'AM';
-  //var hour12 = hour % 12 ? hour % 12 : 12;
 
   // update text in the UI
   document.getElementById('active-year').innerText = year;
